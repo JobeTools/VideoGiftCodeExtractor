@@ -1,7 +1,7 @@
 # VideoGiftCodeExtractor
-Extracts Amazon Gift Card Codes from videos and can also auto redeem them.
-Steps to setup:
-1.Download Dependencies
+Extracts Amazon Gift Card Codes from videos and can also auto redeem them. <br />
+Steps to setup:<br />
+1.Download Dependencies<br />
 2.Run this command in cmd to open a chrome debugging window (Only if you want auto redeeming)
 "chrome.exe -remote-debugging-port=9014 --user-data-dir="D:\Selenium\Chrome_Test_Profile"
 3.Change Username in code to where you will store the documents made by the program noted #here in the program 
